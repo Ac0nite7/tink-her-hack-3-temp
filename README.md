@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/58462908-c2c3-44b7-983a-c7f7c773adb2
 TWITTER SENTIMENTAL ANALYSIS 🎯
 
 
@@ -57,8 +59,8 @@ For Hardware:
 
 
 screenshot of the project
-
-
 ---![Screenshot_2-2-2025_65026_127 0 0 1](https://github.com/user-attachments/assets/2079f27f-e64f-4197-a4bd-df4beec8e01b)
-
+screen recording of the project
+https://github.com/user-attachments/assets/4c2151f5-83bc-42f2-a6cd-d52e484cd88c
 Made with ❤️ at TinkerHub
+
