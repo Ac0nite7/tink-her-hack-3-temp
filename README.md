@@ -54,7 +54,9 @@ For Hardware:
 
 ## Team Contributions
   Nesna.F: CODER
+
   Riswiya.R: INFORMATION GATHERING AND IMPLEMENTATIION
+  
   Rasvi Rukubath: web desinging
 
 
