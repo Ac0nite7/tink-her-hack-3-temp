@@ -55,5 +55,10 @@ For Hardware:
   Riswiya.R: INFORMATION GATHERING AND IMPLEMENTATIION
   Rasvi Rukubath: web desinging
 
----
+
+screenshot of the project
+
+
+---![Screenshot_2-2-2025_65026_127 0 0 1](https://github.com/user-attachments/assets/2079f27f-e64f-4197-a4bd-df4beec8e01b)
+
 Made with ❤️ at TinkerHub
